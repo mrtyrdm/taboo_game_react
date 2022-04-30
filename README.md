@@ -1,3 +1,6 @@
+![Animation](https://user-images.githubusercontent.com/35382061/166123517-9a705c1f-e169-4b97-9a77-989314817f57.gif)
+
+
 ### `yarn start`
 
 Runs the app in the development mode.\
